@@ -11,7 +11,6 @@ import string
 from utils import *
 import random
 import time
-from tensorlayer.prepro import *
 import argparse
 
 import warnings
